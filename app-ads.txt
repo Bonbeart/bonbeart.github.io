@@ -653,6 +653,8 @@ sharethrough.com, RHQvkGur, RESELLER, d53b998a7bd4ecd2
 ##########################################################################################
 ###                                     4. APPODEAL                                    ###
 ##########################################################################################
+###                              ! Remove [MyTarget] section                           ###
+##########################################################################################
 
 #Updated Oct6th, 2022
 #Appodeal
@@ -906,26 +908,7 @@ google.com, pub-3259034378577333, RESELLER
 google.com, pub-1668617029356272, RESELLER
 google.com, pub-7955322303263231, RESELLER
 google.com, pub-8987504289926345, RESELLER
-#MyTarget
-target.my.com, 2301928, RESELLER
-admixer.com, 2301928, RESELLER
-pubmatic.com, 2301928, RESELLER
-onetag.com, 59d216e971852f2, RESELLER
-admixer.net, 2878f07c-cc3f-4f8a-a26c-8e6033a539a6, RESELLER
-betweendigital.com, 43092, RESELLER
-improvedigital.com, 1532, RESELLER
-lijit.com, 273644, RESELLER
-loopme.com, 11278, RESELLER
-onetag.com, 5d1628750185ace, RESELLER
-openx.com, 540298543, RESELLER
-openx.com, 541177349, RESELLER
-pubmatic.com, 158154, RESELLER
-pubmatic.com, 159542, RESELLER
-pubmatic.com, 159668, RESELLER
-rhythmone.com, 3880497124, RESELLER
-rubiconproject.com, 19724, RESELLER
-rubiconproject.com, 20744, RESELLER
-sovrn.com, 273644, RESELLER
+#MyTarget - removed
 #Chartboost
 chartboost.com, 54b83545c909a62a7be7c075, RESELLER
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
