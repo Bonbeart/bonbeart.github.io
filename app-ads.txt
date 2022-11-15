@@ -7,6 +7,8 @@ google.com, pub-5894957334322496, DIRECT, f08c47fec0942fa0
 
 ##############################
 #          MyTarget          #
+############################## 
+# https://target.my.com/profile/app_ads
 ##############################
 
 openx.com, 541177349, RESELLER
@@ -101,6 +103,8 @@ loopme.com, 11352, RESELLER
 
 ##############################
 #          APPODEAL          #
+##############################
+# https://app.appodeal.com/profile/app_ads_txt
 ##############################
 
 #Updated Oct6th, 2022
