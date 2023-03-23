@@ -1,9 +1,9 @@
 ##########################################################################################
 ###   Providers:                                                                       ###
-###   1   AdMob      https://apps.admob.com/v2/apps/appadstxt                          ###
-###   2   MyTarget   https://target.my.com/profile/app_ads                             ###
-###   3   Yandex     https://yandex.com/support/partner/inapp/app/ads-txt-setup.html   ###
-###   4   Appodeal   https://app.appodeal.com/profile/app_ads_txt                      ###
+###   1   AdMob      00.00.0000   https://apps.admob.com/v2/apps/appadstxt             ###
+###   2   MyTarget   24.03.2023   https://target.my.com/profile/app_ads                ###
+###   3   Yandex     24.03.2023   https://partner.yandex.com/v2/settings               ###
+###   4   Appodeal   24.03.2023   https://app.appodeal.com/profile/app_ads_txt         ###
 ##########################################################################################
 
 
