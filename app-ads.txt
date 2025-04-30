@@ -1,9 +1,9 @@
 ##########################################################################################
 ###   Providers:                                                                       ###
 ###   1   AdMob      00.00.0000   https://apps.admob.com/v2/apps/appadstxt             ###
-###   2   MyTarget   16.10.2024   https://target.my.com/profile/app_ads                ###
+###   2   VkAds      30.04.2025   https://ads.vk.com/hq/settings                       ###
 ###   3   Yandex     16.10.2024   https://partner.yandex.com/v2/settings               ###
-###   4   Appodeal   16.10.2024   https://app.appodeal.com/profile/app_ads_txt         ###
+###   4   Appodeal   30.04.2025   https://app.appodeal.com/profile/app_ads_txt         ###
 ##########################################################################################
 
 
@@ -20,7 +20,7 @@ google.com, pub-5894957334322496, DIRECT, f08c47fec0942fa0
 
 
 ##########################################################################################
-###                                     2. MyTarget                                    ###
+###                                     2. VkAds                                       ###
 ########################################################################################## 
 
 adcolony.com, 1efc6603710003ea, RESELLER
@@ -39,12 +39,19 @@ appnexus.com, 8178, RESELLER
 axonix.com, 56222, RESELLER
 betweendigital.com, 43092, RESELLER
 betweendigital.com, 43651, RESELLER
+betweendigital.com, 43713, RESELLER
 betweendigital.com, 43871, RESELLER
 betweendigital.com, 44088, RESELLER
+betweendigital.com, 44229, DIRECT
 betweendigital.com, 44229, RESELLER
+betweendigital.ru, 12823386, DIRECT
+bidease.com, 12823386, DIRECT
+bidease.com, bidease_seller_17, RESELLER
 bidmachine.io, 138, RESELLER
-bigo.sg, 12823386, DIRECT
+bigo.sg, 12823386, RESELLER
+bigo.sg, 880, DIRECT
 brightcom.com, 29559, RESELLER
+byyd.me, 12823386, DIRECT
 chocolateplatform.com, 14630, RESELLER
 contextweb.com, 562499, RESELLER
 contextweb.com, 562827, RESELLER
@@ -58,10 +65,12 @@ gamoshi.io, 267-b4800, RESELLER
 google.com, pub-2843405949989126, RESELLER
 hybrid.ai, 12823386, DIRECT
 hyperad.tech, 41, RESELLER
+ignitemediatech.com, 12823386, DIRECT
 improvedigital.com, 1532, RESELLER
 indexexchange.com, 191332, RESELLER
 indexexchange.com, 192806, RESELLER
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER
+inmobi.com, 791b84bdd791470faa8dca5f04e6a83b, RESELLER
 inmobi.com, 86357825a302443d9a99c0b5dda0eafa, RESELLER
 lacunaads.com, 12823386, DIRECT
 lijit.com, 273644, RESELLER
@@ -72,6 +81,7 @@ loopme.com, 11322, RESELLER
 loopme.com, 11352, RESELLER
 loopme.com, 11424, RESELLER
 lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER
+madex.world, 544b4c02-bccb-47eb-a8c2-0a6be081778b, DIRECT
 marversal.com, 116, RESELLER
 mediasniper.ru, 12823386, DIRECT
 meitu.com, 654, RESELLER
@@ -124,12 +134,14 @@ target.vk.ru, 12823386, DIRECT
 triplelift.com, 10522, RESELLER
 triplelift.com, 8446, RESELLER
 ucfunnel.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
+upravel.com, 12823386, DIRECT
 ushareit.com, 12823386, DIRECT
 verve.com, 15290, RESELLER
 verve.com, 15503, RESELLER
 video.unrulymedia.com, 3880497124, RESELLER
 vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
+yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, DIRECT
 yeahmobi.com, 113772, RESELLER
 zmaticoo.com, 12823386, DIRECT
 
