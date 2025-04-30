@@ -520,22 +520,25 @@ video.unrulymedia.com, 498216989, RESELLER
 ##########################################################################################
 ###                                     4. APPODEAL                                    ###
 ##########################################################################################
-### - Remove [MyTarget] section: https://wiki.appodeal.com/en/networks-setup/mytarget  ###
-### - Comment [google.com] line with "Publisher_ID" - already exists above             ###
-### - Comment [facebook.com] line with "Business_ID" - not used                        ###
+### - # Comment AdMob # [google.com] line with "Publisher_ID" - already exists above   ###
 ##########################################################################################
 
-#Updated 20th September
+#Updated 21st NOVEMBER
+
 #Appodeal
 appodeal.com, 1763, DIRECT
+
 #BidMachine
 bidmachine.io, 1763, DIRECT
+
 #AdMob
 #Replace the Publisher_ID below with your Admob Publisher ID
 #google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
+
 #Meta-Audience
 #Replace the Business_ID below with your Meta Business ID
-#facebook.com,Business_ID,RESELLER,c3e20eee3f780d68 
+facebook.com,Business_ID,RESELLER,c3e20eee3f780d68
+
 #Add other networks if applicable
 
 
@@ -807,7 +810,7 @@ xandr.com,8804,RESELLER,f5ab79cb980f11d1
 xapads.com,117219,RESELLER
 yahoo.com,59262,RESELLER,e1a5b5b6e3255540
 yahoo.com,59318,RESELLER,e1a5b5b6e3255540
-yandex.com,63904735,RESELLER
+yandex.com,302446435,direct
 yandex.com,94923424,RESELLER
 yandex.com,97539269,RESELLER
 yeahmobi.com,5135082,RESELLER
@@ -815,5 +818,4 @@ yeahmobi.com,5135195,RESELLER
 yeahmobi.com,5135347,RESELLER
 yieldlab.net,2172218,RESELLER
 bigo.sg,1112518,reseller
-yandex.com,302446435,reseller
 applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
